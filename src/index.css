@@ -58,9 +58,11 @@ main {
 .weather_temp_data {
   display: flex;
 }
-.weather_app_icon {
-  font-size: 88px;
+.weather_forecast_icon {
+  width: 88px;
   height: 88px;
+  display: block;
+  margin: 0 auto;
 }
 .weather_app_temp {
   font-size: 88px;
